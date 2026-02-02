@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jiaze Li / Personal Website"
 title_separator          : "-"
 name                     : &name "Jiaze Li"
@@ -30,7 +30,7 @@ author:
   location         : "Hong Kong"
   employer         : "The University of Hong Kong"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jiazeli11@connect.hku.hk" 
 
   # Academic websites
   academia         : # URL
